@@ -1,0 +1,1 @@
+k6 run --vus 20 --duration 90s k6-test.js
